@@ -1,0 +1,30 @@
+_repo: Observations-on-Madness-and-MelancholyDissection_37144
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haslam, John
+    birthdate: 1764
+    deathdate: 1844
+    gutenberg_agent_id: '32876'
+    url: http://www.gutenberg.org/2009/agents/32876
+description: Psychiatrie / Melancholie.
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Melancholy'
+- !lcsh 'Psychiatry -- Early works to 1900'
+- !lcc 'RC'
+- !lcsh 'Depression, Mental'
+- !lcsh 'Psychology, Pathological'
+title: "Observations on Madness and Melancholy\r\nIncluding Practical Remarks on those\
+  \ Diseases together with Cases and an Account of the Morbid Appearances on Dissection"
+url: http://www.gutenberg.org/ebooks/37144
