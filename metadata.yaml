@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32876'
     url: http://www.gutenberg.org/2009/agents/32876
 description: Psychiatrie / Melancholie.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37144#Observations-on-Madness-and-MelancholyDissection
 gutenberg_issued: '2011-08-21'
 gutenberg_type: Text
 identifiers:
